@@ -5,4 +5,4 @@ Project is created with:
 * CSS
 * JavaScript
 ## Live Demo
-[DEMO](https://namaste-india-harsha2-0.netlify.app/)
+[NAMASTE-INDIA](https://namaste-india-harsha2-0.netlify.app/)
